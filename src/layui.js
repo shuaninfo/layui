@@ -54,6 +54,7 @@
     ,layer: 'layer' //弹层
     ,laydate: 'laydate' //日期
     ,laypage: 'laypage' //分页
+    ,laypageseo: 'laypageseo' //分页
     ,laytpl: 'laytpl' //模板引擎
     ,layedit: 'layedit' //富文本编辑器
     ,form: 'form' //表单集
